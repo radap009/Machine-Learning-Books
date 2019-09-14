@@ -2,7 +2,6 @@
 
 This is a curated collection of free Machine Learning related eBooks available on the Internet. Please feel free to share and learn.
 
-You may visit [**Free-Deep-Learning-Books**](https://github.com/TechBookHunter/Free-Deep-Learning-Books) for Deep Learning books.
 
 If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
 
